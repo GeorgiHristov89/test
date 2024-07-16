@@ -1,2 +1,2 @@
 dassdf
-var lastResult = 1;
+var lastResult = 12;
